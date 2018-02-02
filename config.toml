@@ -1,0 +1,4 @@
+baseURL = "http://gliv.github.io"
+languageCode = "en-us"
+title = "Collecting code and controversy."
+theme = "hugo-sustain"
